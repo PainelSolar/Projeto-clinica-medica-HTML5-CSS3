@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Sobre</title>
+      <link rel="stylesheet" href="./css/styles.css"/>
+    </head>
+    <body>
+        <div id="container">
+            <img src="assets/images/Borsatto.png" height="205" width="320">
+        </div>
+        <h1></h1>
+        <div class="form-group">
+        <a href=""><button type="Home" id="Home" class="botao1" click="./index.html">Home</button>
+        <a href=""><button type="Sobre" id="Sobre" class="botao1" click="./sobre.html">Sobre</button>
+        <a href=""><button type="Contato" id="Contato" class="botao1">Contato</button></a>
+            <header class="header">
+                <h1 id="tittle" class="text-center"></h1>
+            </div>  
+    </body>
+    <footer class="fixarRodape">
+        <h3></h3>
+    </footer>
+</html>
